@@ -1,0 +1,23 @@
+{
+  "name": "fet-week3assignment",
+  "version": "1.0.0",
+  "description": "Front End Technologies Week 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butldav/fet-week3Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butldav/fet-week3Assignment/issues"
+  },
+  "homepage": "https://github.com/butldav/fet-week3Assignment#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  }
+}
